@@ -1,0 +1,2 @@
+# Senixa
+discord,js bot
