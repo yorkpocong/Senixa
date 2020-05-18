@@ -7,7 +7,7 @@ const mongoose = require("mongoose");
 const config = require("./config");
 
 
-mongoose.connect("", {
+mongoose.connect("mongodb+srv://Chaos:chaosiscool@cluster0-dodyi.mongodb.net/Bobby?retryWrites=true&w=majority", {
     useNewUrlParser: true,
     useUnifiedTopology: true
 });
